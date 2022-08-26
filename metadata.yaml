@@ -1,0 +1,29 @@
+_repo: Novelleja_68834
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Järviluoma, Lyyli
+    gutenberg_agent_id: '54967'
+    url: http://www.gutenberg.org/2009/agents/54967
+creator:
+  author:
+    agent_name: Blaumanis, Rudolfs
+    gutenberg_agent_id: '54966'
+    url: http://www.gutenberg.org/2009/agents/54966
+description: ''
+gutenberg_issued: '2022-08-25'
+identifiers:
+  gutenberg: '68834'
+language: fi
+pgterms:marc905: 20220727055100blaumann
+pgterms:marc906: '1923'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: Finland :WSOY,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Novelleja
+url: http://www.gutenberg.org/ebooks/68834
