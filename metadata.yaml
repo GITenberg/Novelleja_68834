@@ -5,12 +5,17 @@ contributor:
     agent_name: Järviluoma, Lyyli
     gutenberg_agent_id: '54967'
     url: http://www.gutenberg.org/2009/agents/54967
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blaumanis, Rudolfs
     gutenberg_agent_id: '54966'
     url: http://www.gutenberg.org/2009/agents/54966
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68834#Novelleja
 gutenberg_issued: '2022-08-25'
 identifiers:
   gutenberg: '68834'
